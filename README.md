@@ -19,4 +19,9 @@ A simple Python-based packet sniffer GUI built using **Tkinter** and **Scapy** f
   ```bash
   pip install scapy
 
+Here is a screenshot of the **PacketSnifferGUI** in action:
+
+![Packet Sniffer GUI Screenshot](https://github.com/DinukaRasanjana/PacketSnifferGUI-/blob/main/1.jpg)
+
+
   
